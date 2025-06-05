@@ -1,22 +1,32 @@
+# 🥗 My Daily Diet Log - June 5, 2025
 
-# Today I eat
+## 🍳 Breakfast (8:00 AM)
+- 🥚 2 boiled eggs  
+- 🍞 1 slice whole wheat toast  
+- 🍌 1 banana  
+- ☕ Black coffee (no sugar)
 
-## Rice
+## 🥪 Lunch (12:30 PM)
+- 🍚 Brown rice  
+- 🍗 Grilled chicken breast  
+- 🥦 Steamed broccoli  
+- 🥒 Cucumber salad  
+- 🍊 1 orange  
 
-  * Item 1
-  * Item 2
-  * Item 3
+## ☕ Snack (4:00 PM)
+- 🥜 A handful of almonds  
+- 🍵 Green tea
 
-## Fish
+## 🍲 Dinner (7:00 PM)
+- 🍝 Whole grain pasta  
+- 🍅 Tomato sauce with lentils  
+- 🥗 Garden salad with olive oil  
+- 🍓 A few strawberries
 
-  * Item 1
-  * Item 2
-  * Item 3
+## 💧 Water Intake
+- 💧 8 cups (2 liters)
 
-## Vegetable
+---
 
-* Item 1
-* Item 2
-* Item 3
-
- 
+> ✅ **Goal:** Balanced meals with enough protein, fiber, and hydration  
+> 📈 **Feeling:** Energetic and focused today!
