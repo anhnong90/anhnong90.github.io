@@ -30,3 +30,5 @@
 
 > ✅ **Goal:** Balanced meals with enough protein, fiber, and hydration  
 > 📈 **Feeling:** Energetic and focused today!
+
+# Here [Click here for details](details.md)
