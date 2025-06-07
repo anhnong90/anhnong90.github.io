@@ -1,34 +1,47 @@
-# 🥗 My Daily Diet Log - June 5, 2025
+---
+title: "🥗 My Weekly Diet Log"
+layout: page
+permalink: /weekly-diet/
+---
 
-## 🍳 Breakfast (8:00 AM)
+# 🗓️ My Diet Plan — Week of June 2–8, 2025
+
+Below is a snapshot of what I ate each day this week. I aim for balanced meals focused on whole foods, plant-based ingredients, and hydration.
+
+## 📅 Monday
+
+![Boiled eggs](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Boiled_eggs.jpg/640px-Boiled_eggs.jpg)
+
+**Breakfast**  
 - 🥚 2 boiled eggs  
 - 🍞 1 slice whole wheat toast  
 - 🍌 1 banana  
-- ☕ Black coffee (no sugar)
+- ☕ Black coffee
 
-## 🥪 Lunch (12:30 PM)
+**Lunch**  
 - 🍚 Brown rice  
 - 🍗 Grilled chicken breast  
 - 🥦 Steamed broccoli  
 - 🥒 Cucumber salad  
-- 🍊 1 orange  
+- 🍊 Orange
 
-## ☕ Snack (4:00 PM)
-- 🥜 A handful of almonds  
+**Snack**  
+- 🥜 Handful of almonds  
 - 🍵 Green tea
 
-## 🍲 Dinner (7:00 PM)
+**Dinner**  
 - 🍝 Whole grain pasta  
-- 🍅 Tomato sauce with lentils  
+- 🍅 Tomato lentil sauce  
 - 🥗 Garden salad with olive oil  
-- 🍓 A few strawberries
+- 🍓 Strawberries
 
-## 💧 Water Intake
-- 💧 8 cups (2 liters)
+## 📅 Tuesday to Sunday
 
----
+Most meals follow this format with small variations, such as:
+- Oatmeal and berries instead of eggs
+- Baked salmon or tofu instead of chicken
+- Roasted root vegetables or vegetable soups at dinner
 
-> ✅ **Goal:** Balanced meals with enough protein, fiber, and hydration  
-> 📈 **Feeling:** Energetic and focused today!
+> ✅ Consistency and hydration are key!
 
-# Here [Click here for details](details.md)
+📌 See [Composition & Nutritional Info »](../composition)
