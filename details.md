@@ -1,8 +1,3 @@
----
-title: "🍽️ Composition & Nutritional Breakdown"
-layout: page
-permalink: /composition/
----
 
 # 🧪 What’s in My Food?
 
@@ -49,3 +44,4 @@ Below is the nutritional breakdown of staple items in my weekly diet.
 - Low glycemic index
 
 🔍 Explore more: [USDA FoodData Central](https://fdc.nal.usda.gov/)
+# [Click here to see shopping guide](shopping-guide.md)
