@@ -28,8 +28,6 @@ Below is the nutritional breakdown of staple items in my weekly diet.
 
 ## 🍌 Banana
 
-![Banana](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/640px-Banana-Single.jpg)
-
 - Potassium: ~422mg  
 - Vitamin B6, C  
 - Energy: quick-digesting natural sugars  

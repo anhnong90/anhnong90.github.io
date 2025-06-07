@@ -1,0 +1,3 @@
+- [🥗 Weekly Diet](/weekly-diet/)
+- [🍽️ Composition](/composition/)
+- [🛒 Shopping Guide](/shopping-guide/)
