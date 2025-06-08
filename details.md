@@ -5,7 +5,7 @@ Below is the nutritional breakdown of staple items in my weekly diet.
 
 ## 🥚 Boiled Eggs
 
-![Boiled eggs](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Boiled_eggs.jpg/640px-Boiled_eggs.jpg)
+![Boiled eggs](https://gfchow.com/wp-content/uploads/2023/09/IMG_0683-2048x1537.jpeg)
 
 - Protein: ~6g per egg  
 - Healthy fats: omega-3 (especially if pasture-raised)  
@@ -14,7 +14,7 @@ Below is the nutritional breakdown of staple items in my weekly diet.
 
 ## 🍞 Whole Wheat Bread
 
-![Whole Wheat Bread](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Whole_wheat_bread_1.jpg/640px-Whole_wheat_bread_1.jpg)
+![Whole Wheat Bread](https://www.cspinet.org/sites/default/files/styles/700x530/public/2021-12/goForWholeGrains_hero_700x530.jpg.webp?itok=CVvGIloW)
 
 - Fiber: ~2g per slice  
 - Carbs: ~12g  
@@ -30,7 +30,7 @@ Below is the nutritional breakdown of staple items in my weekly diet.
 
 ## 🥦 Broccoli
 
-![Steamed broccoli](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Broccoli_and_cauliflower_in_steamer_basket.jpg/640px-Broccoli_and_cauliflower_in_steamer_basket.jpg)
+![Steamed broccoli](https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1220,h_915/k%2FEdit%2F2022-11-Steamed-Broccoli%2Fsteamedbroccoli-1)
 
 - Vitamin C: 81mg per cup  
 - Fiber & folate  
