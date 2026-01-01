@@ -1,3 +1,7 @@
+---
+title: Details
+layout: page
+---
 
 # 🧪 What’s in My Food?
 
