@@ -1,3 +1,8 @@
+---
+title: Shopping Guide 
+layout: page 
+---
+
 # 🛍️ Where I Get My Ingredients
 
 Here are my preferred shopping sources — both online and in-person.
