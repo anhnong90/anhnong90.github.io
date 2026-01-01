@@ -1,3 +1,8 @@
+---
+title: My Daily Diet Log
+layout: page
+---
+
 # 🥗 My Daily Diet Log
 
 ## 🍳 Breakfast (6:00 AM)
