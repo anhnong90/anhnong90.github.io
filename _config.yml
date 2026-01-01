@@ -1,3 +1,5 @@
-remote_theme: https://github.com/eneukirchner/jekyll-rtd-theme
+remote_theme: eneukirchner/jekyll-rtd-theme
+plugins:
+  - jekyll-remote-theme
 readme_index:
   with_frontmatter: true
