@@ -1,11 +1,4 @@
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
-
-readme_index:
-  with_frontmatter: true
-
-# Add these settings for better sidebar display
-title: My Diet Website
-description: Daily diet tracking and nutrition info
