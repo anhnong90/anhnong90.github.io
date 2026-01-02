@@ -1,16 +1,7 @@
-remote_theme: eneukirchner/jekyll-rtd-theme
+remote_theme: JV-conseil/jekyll-theme-read-the-docs
 
 plugins:
   - jekyll-remote-theme
 
 readme_index:
   with_frontmatter: true
-
-# Site settings
-title: My Diet Website
-description: A personal diet tracking website
-
-# Navigation
-nav_links:
-  - title: Home
-    url: /
