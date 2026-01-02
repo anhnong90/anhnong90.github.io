@@ -48,4 +48,4 @@ Below is the nutritional breakdown of staple items in my weekly diet.
 - Low glycemic index
 
 🔍 Explore more: [USDA FoodData Central](https://fdc.nal.usda.gov/)
-# [Click here to see shopping guide](shopping-guide.md)
+# [Click here to see shopping guide](/shopping-guide)

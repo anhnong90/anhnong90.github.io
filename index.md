@@ -36,4 +36,4 @@ layout: page
 > ✅ **Goal:** Balanced meals with enough protein, fiber, and hydration  
 > 📈 **Feeling:** Energetic and focused today!
 
-# [Details for ingredients](details.md)
+# [Details for ingredients](/details)

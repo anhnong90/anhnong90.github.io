@@ -1,0 +1,3 @@
+- [🥗 My Daily Diet Log](/)
+- [🍽️ What's in My Food?](/details)
+- [🛒 Where I Get My Ingredients](/shopping-guide)
