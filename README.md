@@ -3,7 +3,7 @@ title: README
 layout: page 
 ---
 
-# Blog is available at: https://anhnong90.github.io/
+### **Blog is available at:** https://anhnong90.github.io/ 
 
 # 🥗 My Simple Jekyll Website
 
