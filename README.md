@@ -3,6 +3,8 @@ title: README
 layout: page 
 ---
 
+# Blog is available at: https://anhnong90.github.io/
+
 # 🥗 My Simple Jekyll Website
 
 This is a personal website I built using **Jekyll** and **GitHub Pages** to document my weekly diet, nutritional breakdowns, and where to buy the food I eat.
